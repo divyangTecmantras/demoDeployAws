@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6f7c7fc.css",
+    "main.js": "/static/js/main.143623de.js",
+    "static/js/787.ff9f4fa7.chunk.js": "/static/js/787.ff9f4fa7.chunk.js",
+    "static/media/background.jpg": "/static/media/background.04f31b72bbcfe1f6aef7.jpg",
+    "static/media/tastesonwayorderdetails.png": "/static/media/tastesonwayorderdetails.cc396a33df50ba17809e.png",
+    "static/media/proceedtocheckout.png": "/static/media/proceedtocheckout.be66e5cfbdf35d56bd0f.png",
+    "static/media/Aboutusbg.png": "/static/media/Aboutusbg.413d087841d05f3b6aa6.png",
+    "static/media/contactus.png": "/static/media/contactus.661867e27e6e6834e2bf.png",
+    "static/media/delicious-dosa-bg.png": "/static/media/delicious-dosa-bg.b976d51447f877d7019a.png",
+    "static/media/ProfileBanner.png": "/static/media/ProfileBanner.1bfb4817dc7424e7d70d.png",
+    "static/media/healthy-food-home.png": "/static/media/healthy-food-home.3b9a34131f46b8783c43.png",
+    "static/media/healthy-fruit-salad.png": "/static/media/healthy-fruit-salad.ad7437b1df7912200626.png",
+    "static/media/saladbowl.png": "/static/media/saladbowl.e4c45e05383edd3d40c5.png",
+    "static/media/reviewrestaurent.png": "/static/media/reviewrestaurent.b7f08172b67d2c38b067.png",
+    "static/media/become a dasher.png": "/static/media/become a dasher.9b9f6b0c13b6a6bdbd6d.png",
+    "static/media/give us your feedback.png": "/static/media/give us your feedback.0a8d39b95e64ff34150e.png",
+    "static/media/Tastes_on_way.png": "/static/media/Tastes_on_way.a7cc61850a82eb81b38d.png",
+    "static/media/become a partner.png": "/static/media/become a partner.932e6677d5b1961238da.png",
+    "static/media/try an app.png": "/static/media/try an app.e7324be9229599a4c215.png",
+    "static/media/star.png": "/static/media/star.b0ce7055d339561b3921.png",
+    "index.html": "/index.html",
+    "main.b6f7c7fc.css.map": "/static/css/main.b6f7c7fc.css.map",
+    "main.143623de.js.map": "/static/js/main.143623de.js.map",
+    "787.ff9f4fa7.chunk.js.map": "/static/js/787.ff9f4fa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f7c7fc.css",
+    "static/js/main.143623de.js"
+  ]
+}
